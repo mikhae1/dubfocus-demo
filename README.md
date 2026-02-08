@@ -1,4 +1,4 @@
-# DubFocus: adaptive soundscapes for deep focus and calm
+# DubFocus: adaptive soundscapes for deep focus and flow states
 
 Live demo: https://dubfocus.netlify.app/
 
