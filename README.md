@@ -1,4 +1,4 @@
-# DubFocus Demo — adaptive soundscapes for focus, flow, and calm
+# DubFocus: adaptive soundscapes for deep focus and calm
 
 Live demo: https://dubfocus.netlify.app/
 
@@ -21,30 +21,26 @@ Random auditory noise, most often white or pink noise in the literature, can som
 A 2024 systematic review and meta analysis reports a small benefit of white and pink noise for individuals with ADHD or high ADHD symptoms, with weaker or negative effects in non ADHD comparison groups.
 Source: [Nigg et al., 2024, Journal of the American Academy of Child and Adolescent Psychiatry](https://pubmed.ncbi.nlm.nih.gov/38428577/) and the open full text in [PubMed Central](https://pmc.ncbi.nlm.nih.gov/articles/PMC11283987/).
 
-A key practical note for brown noise fans is that many reviews emphasize white and pink noise, while evidence for other noise colors is more limited and less consistent.
-The honest stance is experimentation, not certainty.
-
 How DubFocus uses this idea: it gives you a noise generator for masking and stability, with controls so you can make the texture comfortable for long sessions.
-If you are aiming for deep focus, the goal is to create a steady, low annoyance bed that reduces surprise and reduces how much meaningful signal gets through.
+If you are aiming for deep focus, the goal is to create a steady, low annoyance bed that masks interruptions and reduces how much meaningful signal gets through.
 
 ### 2) Binaural beats as a gentle entrainment tool
 
-Binaural beats are an auditory illusion created by presenting slightly different tones to each ear.
+Binaural beats are an auditory illusion created by presenting slightly different tone frequencies to each ear.
 Some studies report effects on sustained attention or working memory under specific parameters, and other studies find smaller or inconsistent effects.
-A recent parametric study in Scientific Reports explored how binaural beat settings and masking can change sustained attention outcomes and entrainment measures.
+A recent parametric study in Scientific Reports explored how binaural beat settings and masking can improve sustained attention outcomes and entrainment measures.
 Source: [Melnichuk et al., 2025, Scientific Reports](https://www.nature.com/articles/s41598-025-88517-z) and the indexed record in [PubMed](https://pubmed.ncbi.nlm.nih.gov/39910150/).
 
 The grounded takeaway is that binaural beats are a plausible, low risk tool that may help some people and not others.
-Parameters matter, comfort matters, and the only meaningful evaluation is whether they help you sustain attention in your own routine.
+And **parameters matter**, **comfort matters**, and the only meaningful evaluation is whether they help you sustain attention in **your own** routine.
 
 How DubFocus uses this idea: it includes a binaural beat generator designed for headphone use, so you can test settings while working and keep what actually feels beneficial.
 
 ### 3) Real time audio as a feedback loop
 
-This demo leans into something that is conceptually adjacent to neurofeedback, without claiming to be EEG neurofeedback.
 You can create a loop between what is happening around you and what you hear after processing.
 If typing, room tone, or distant chatter becomes part of a coherent texture, the environment can feel less like random interruptions and more like a continuous soundscape.
-In plain language, you are converting unpredictable events into predictable textures.
+In plain language, you are converting unpredictable events into predictable low annoyance textures.
 
 There is also direct research motivation for focusing on speech as the main culprit.
 Irrelevant speech can impair performance and can increase stress responses in cognitive tasks.
